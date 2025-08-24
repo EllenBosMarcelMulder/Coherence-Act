@@ -95,11 +95,10 @@ This NOTICE.md is issued to ensure that:
 - The liability for obstruction or sabotage is explicitly documented.  
 
 ---
-
 **Respectfully,**  
 
 Marcel Mulder  
 Dutch citizen – EU jurisdiction  
 Researcher and responsible knowledge holder
 
----71c9000a942922303bd953f1895cf46f11511cf7cab661a2ccdde3a672268320
+---5eb08f84ee2041b3c934983fd4d74638afb721816d7c81370f10ce15280ac1a5
