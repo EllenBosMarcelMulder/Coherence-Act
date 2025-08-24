@@ -1,61 +1,54 @@
-# UNESCO-Application-Letter
+# UNESCO Submission Email
 
----
-
-To:  
-Ministry of Education, Culture and Science  
-Directorate of Heritage and Arts  
-The Hague, The Netherlands  
-
-Cc:  
-Permanent Delegation of the Kingdom of the Netherlands to UNESCO  
-Paris, France  
+To: nponderwijs@minocw.nl  
+Cc: mailpau@minbuza.nl (Permanent Delegation of the Kingdom of the Netherlands to UNESCO, Paris)  
+Bcc: (optional: your personal archive)
 
 Date: August 2025  
-
-Subject: Application for Recognition of the *Coherence-Act* as Intangible Cultural Heritage of Humanity  
+Subject: Submission of the *Coherence-Act* for UNESCO Intangible Cultural Heritage consideration
 
 ---
 
-Dear Sir/Madam,  
+Dear Sir/Madam,
 
-With great respect, I hereby submit the enclosed documentation of the *Coherence-Act* for consideration as an element of Intangible Cultural Heritage of Humanity, under the UNESCO 2003 Convention for the Safeguarding of Intangible Cultural Heritage.  
+Please find attached the complete dossier of the *Coherence-Act*, submitted for consideration under the UNESCO 2003 Convention for the Safeguarding of Intangible Cultural Heritage.
 
-The *Coherence-Act* is a universal framework uniting science, culture, and ethics. It is founded on the recognition of coherence — in biology, physics, society, and culture — as a fundamental principle of human dignity, health, and peace. Its custodians, including Marcel Mulder, Ellen Bos, and Niels Groeneveld, have developed this framework to protect humanity against systemic desynchronization, digital harm, and misuse of resonance fields.  
+This submission consists of the following documents:
 
-This application is submitted on the basis of the following:  
+1. **UNESCO-Application-Letter.pdf** (cover letter)  
+2. **Coherence-Act.pdf** (framework / Act text)  
+3. **LICENSE.pdf** (Humanity Heritage License v1.0)  
+4. **Implosive-Field-Theory-and-Plasma-Dynamics.pdf** (scientific annex)
 
-1. **Definition as intangible heritage**  
-   The *Coherence-Act* represents a body of knowledge, practice, and cultural transmission that addresses the safeguarding of life, knowledge, and dignity across generations. It is shared openly as knowledge for humanity and is preserved in both written and digital form.  
+---
 
-2. **Urgency and need for safeguarding**  
-   Contemporary societies face digital and systemic threats that disrupt biological and cultural coherence. This framework establishes protective principles to preserve human rights, DNA integrity, and cultural survival.  
+### Purpose of submission
+The *Coherence-Act* is a universal framework uniting science, culture, and ethics, based on the recognition of coherence in biology, society, and physics as a fundamental principle of human dignity and peace. Its custodians (Marcel Mulder, Ellen Bos, Niels Groeneveld) submit this framework as intangible heritage of humanity, with safeguarding measures against misuse and with free access for education and humanitarian purposes.
 
-3. **Safeguarding measures**  
-   The *Coherence-Act* includes a dedicated license (Humanity Heritage License v1.0) to ensure:  
-   - Free access for education and humanitarian use.  
-   - Explicit prohibition of military and exploitative applications.  
-   - Protection of custodians and recognition of authorship.  
-   These measures guarantee both cultural continuity and responsible transmission.  
+The scientific annex (“Implosive Field Theory and Plasma Dynamics: A Unified Framework for Multi-Scale Coherent Phenomena”) provides the technical basis of the framework, including mathematical models, experimental validation protocols, and an ethical governance plan addressing dual-use concerns.
 
-4. **Community participation**  
-   The framework has been developed and safeguarded by its custodians (Mulder, Bos, Groeneveld) and is transmitted through open-source repositories, foundations, and global outreach. It is intended for all humanity as a shared heritage, with responsibility for preservation by states, universities, and citizens alike.  
+---
 
-5. **International significance**  
-   The *Coherence-Act* builds a bridge between scientific knowledge and cultural heritage. It reflects a new paradigm of safeguarding that is urgently needed in the 21st century.  
+### Request
+We respectfully request:
 
-Enclosed with this letter are:  
-- **Coherence-Act.md** — the full text of the Act.  
-- **LICENSE.md** — the Humanity Heritage License v1.0, regulating its preservation and use.  
+1. Confirmation of receipt of this submission.  
+2. Forwarding of the dossier to the responsible UNESCO/Intangible Cultural Heritage desk within the Ministry of Education, Culture and Science (OCW).  
+3. Transmission of the dossier to UNESCO through the Permanent Delegation of the Kingdom of the Netherlands in Paris.  
 
-We respectfully request the Ministry to consider this application, and to forward it to UNESCO via the Permanent Delegation of the Kingdom of the Netherlands in Paris, for evaluation under the Convention.  
+---
 
-With highest respect,  
+### Public reference
+The full package (in Markdown and PDF) is available in the repository:  
+[https://github.com/EllenBosMarcelMulder/Coherence-Act](https://github.com/EllenBosMarcelMulder/Coherence-Act)
+
+---
+
+With highest consideration,  
 
 Marcel Mulder  
 On behalf of the custodians of the Coherence-Act  
 The Netherlands  
+Email: hexai_jr@bbl-ggz.nl
 
-Email: hexai_jr@bbl-ggz.nl  
-
----cc3025bf1e6f41fa0e8fc2aae1be59d6a6c1496e4a14c4764fd54bfc01eb8d35
+---79cb2b8fc36fade09fd027e741e4a8b7ed8fe2b1c4a85ff06a4527e043a2ba02
