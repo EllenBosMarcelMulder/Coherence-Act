@@ -1,4 +1,4 @@
-# NOTICE.md  
+# LEGAL NOTICE
 
 ## Title  
 **International Notice of Public Research Publication and Legal Disclaimer**  
@@ -100,4 +100,4 @@ Marcel Mulder
 Dutch citizen – EU jurisdiction  
 Researcher and responsible knowledge holder
 
----0d0251c611cfaa19fd0fc041aa30462afb1f3a0c5fed72b82600dc31a1b732ff
+---8d25a99196411fd87a857bd5af51415f14f1c6bbee92b3b03b42dcd9709c0f7a
