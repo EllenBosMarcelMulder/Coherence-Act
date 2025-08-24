@@ -1,6 +1,6 @@
 # Coherence-Act License (Humanity Heritage License v1.0)
 
-Copyright (c) 2025 Marcel Mulder & Co-authors
+Copyright (c) 2025 Marcel Mulder & Co-authors  
 
 ---
 
@@ -10,7 +10,7 @@ is declared as part of humanity’s intangible heritage of knowledge.
 It is offered in the spirit of openness, protection of life, and advancement of science.  
 
 Recognized under the principle of *knowledge for humanity*, this license guarantees  
-free access for education, research, and humanitarian use, while prohibiting misuse.
+free access for education, research, and humanitarian use, while prohibiting misuse.  
 
 ---
 
@@ -39,21 +39,16 @@ free access for education, research, and humanitarian use, while prohibiting mis
 
 ## Disclaimer
 This work is provided “as is”, without warranty of any kind, express or implied.  
-The authors shall not be liable for damages arising from its use or misuse.
+The authors shall not be liable for damages arising from its use or misuse.  
 
 ---
 
 ## Heritage Clause
 By using this work, you acknowledge its recognition as *intangible heritage knowledge*  
-for humanity, with the duty to preserve, protect, and transmit it responsibly.
+for humanity, with the duty to preserve, protect, and transmit it responsibly.  
 
 ---
 
 *Version 1.0 — Humanity Heritage License (HHL), August 2025.*
 
-Use Control + Shift + m to toggle the tab key moving focus. Alternatively, use esc then tab to move to the next interactive element on the page.
-Geen bestand gekozen
-Attach files by dragging & dropping, selecting or pasting them.
-New File at / · EllenBosMarcelMulder/Coherence-Act
-
----6519d37fefeb29ecea5a1e2c3989d4a0f47e9f4651ff5671999859a3f306b827
+---6093ee5a35ad37c72f399d3c918b461791c66261218fd54498acad5f7c9bf6f9
