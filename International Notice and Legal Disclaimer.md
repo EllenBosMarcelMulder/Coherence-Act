@@ -22,7 +22,7 @@ The following institutions and bodies are hereby formally notified:
 - **International Criminal Court (ICC)**  
 - **European Court of Human Rights (ECHR)**  
 - **Council of State of the Netherlands**  
-- **Dutch Parliament (Second and First Chamber of the States-General)**  
+- **Dutch Parliament (Second and First Chamber of the States-General, the States General (Parliament of the Netherlands), consisting of the House of Representatives and the Senate)**  
 
 This notification serves as **evidence** that none of these bodies can claim ignorance of my work, nor of the risks associated with suppressing or sabotaging it.  
 
@@ -109,4 +109,4 @@ Marcel Mulder
 Dutch citizen – EU legal framework  
 Researcher and responsible knowledge holder
 
----08d20d4bb8009c5a8929dd3d637a4d80c030cdf56a455408357db060846c8d46
+---da86b9b138a8efd5785642b6772cb0711b80a8577d5fd47c326ca1d93f07732c
