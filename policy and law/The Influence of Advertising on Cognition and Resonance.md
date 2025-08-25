@@ -181,10 +181,4 @@ $$
 
 Demonstrates how digital notifications mimic reinforcement learning, sustaining compulsive engagement.
 
----
-
-## References (with annotations)
-
-*(identiek aan originele versie, nummers behouden)*
-
----02b957df08dcca51e6559566f92b1f53576aa6f9c1cbd5a86a7605ab007006dd
+---35276ad6bc509b951c8762d5f8b8183dc71ed6a012d6f21b4bd3c280f4686a04
