@@ -190,14 +190,6 @@ $$\chi_k(f) = w_k \cdot H_k^2(f) \cdot \sigma_k(f)$$
 
 Here, $w_k$ is a weighting factor and $\sigma_k(f)$ is the power spectral density of the internal, endogenous "background noise" of the brain. This noise can change due to factors such as sleep deprivation or stress, which affects resonance sensitivity.
 
-***
-
-Om de wiskundige formules en de bijbehorende tekst correct weer te geven in Markdown, is het belangrijk om de juiste syntax te gebruiken voor zowel inline- als blokformules. De dubbele dollartekens (`$$`) zorgen ervoor dat een formule op een nieuwe regel wordt weergegeven en gecentreerd wordt, wat ideaal is voor complexe vergelijkingen.
-
-Hieronder vindt u de tekst met de juiste opmaak, die op platforms zoals GitHub correct wordt gerenderd.
-
-***
-
 ### **3. The Equivalent Resonance Dose (ERD)**
 
 The Equivalent Resonance Dose ($\text{ERD}$) is the central metric and is modeled as a cumulative dose. The dose rate, $\dot{D}(t)$, is a combination of the physical "resonance power" and a salience factor:
