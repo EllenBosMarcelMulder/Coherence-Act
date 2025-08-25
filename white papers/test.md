@@ -1,4 +1,3 @@
-
 ### **White Paper on Advertising Resonance, Cognitive Health, and the Precautionary Principle**
 
 ---
@@ -147,28 +146,26 @@ This section introduces the concept of the **Equivalent Resonance Dose (ERD)**, 
 
 #### **0. Notation (compact)**
 
-* t: time (s); f: frequency (Hz); ω = 2πf (rad/s)
-* Vectors are bold: **s**(t), **x**(t). Fourier: F{·}(f).
-* ⟨·⟩_T: time average over window T.
-* |·|₂: quadratic norm; |·|: modulus; ⊙: element-wise product.
+* t: time (seconds); f: frequency (Hertz); omega = 2*pi*f (radians/second)
+* Vectors are bold: s(t), x(t). Fourier transform: F{function}(f)
+* Time average over window T: average_T{function}
+* Quadratic norm: |vector|_2; modulus: |value|; element-wise product: circle_dot
 
 #### **1. Stimulus Modeling (digital and analog, multimodal)**
 
 The advertising stimulus is modeled as a composite time series:
 
-**s**(t) = [s_vis(t)]
-          [s_aud(t)]
-          [s_txt(t)]
-          [s_soc(t)]
+s(t) = [s_vis(t), s_aud(t), s_txt(t), s_soc(t)]
 
-* s_vis(t): visual stimulus (e.g., brightness, contrast, motion)
-* s_aud(t): auditory stimulus (sound, music)
+Where:
+* s_vis(t): visual stimulus (brightness, contrast, motion)
+* s_aud(t): auditory stimulus (sound, music)  
 * s_txt(t): textual/semantic stimulus (keywords)
 * s_soc(t): social stimulus (likes, shares, notifications)
 
 Each stimulus has a "salience" or conspicuousness, m_k(t), defined as the rate of change of the stimulus:
 
-m_k(t) = |d/dt s_k(t)|^α,  where α ∈ [0.5, 1]
+m_k(t) = |d/dt s_k(t)|^alpha, where alpha is between 0.5 and 1
 
 This salience captures the degree of abrupt change that attracts attention, such as a quick scene change in a video or a sudden loud beat in music.
 
@@ -200,7 +197,7 @@ This equation describes the non-linear relationship where an increasing dose (ER
 
 #### **5. Implications for Policy and Research**
 
-This formal framework provides a basis for a comparative analysis of the impact of advertising. It sets a hypothesis that can be tested: if digital and analog advertising have the same ERD, the model predicts that the measured biomarker response (ΔB_j) will also be comparable, which would demonstrate mechanistic equality. The ERD metric could also lead to the establishment of **normative threshold values** for advertising exposure. This would be comparable to the way limits are set for noise levels in the workplace or for radiation levels, and can provide a basis for future policy to protect mental public health.
+This formal framework provides a basis for a comparative analysis of the impact of advertising. It sets a hypothesis that can be tested: if digital and analog advertising have the same ERD, the model predicts that the measured biomarker response (Delta_B_j) will also be comparable, which would demonstrate mechanistic equality. The ERD metric could also lead to the establishment of **normative threshold values** for advertising exposure. This would be comparable to the way limits are set for noise levels in the workplace or for radiation levels, and can provide a basis for future policy to protect mental public health.
 
 ---
 
