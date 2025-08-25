@@ -34,3 +34,5 @@ This repository serves as both an **open knowledge source** and a **legal–ethi
 ### Usage  
 - Free for study, education, and humanitarian purposes.  
 - Not permitted for military or commercial exploitation.  
+
+---31cc1e0af913f4b6d46762b03ad429a7caa8573f05ee5e31a94ecdee5ed603bd
