@@ -12,7 +12,7 @@ This repository contains the core documents that connect **science, policy, law,
 
 ### 2. Policy & Law  
 - [The Influence of Advertising on Cognition and Resonance](https://github.com/EllenBosMarcelMulder/Coherence-Act/blob/main/policy%20and%20law/The%20Influence%20of%20Advertising%20on%20Cognition%20and%20Resonance.md)  
-- [UNESCO Heritage Notice](https://github.com/EllenBosMarcelMulder/Coherence-Act/blob/main/LICENSE.md)  
+- [UNESCO Heritage Notice](https://github.com/EllenBosMarcelMulder/Coherence-Act/blob/main/legal/UNESCO/UNESCO-Application-Letter.md)  
 
 ### 3. Mathematical & Measurement Models  
 - [Equivalent Resonance Dose (ERD) – Framework and Formulas](https://github.com/EllenBosMarcelMulder/Coherence-Act/blob/main/policy%20and%20law/The%20Influence%20of%20Advertising%20on%20Cognition%20and%20Resonance.md#appendix-mathematical-models-for-erd)  
@@ -35,4 +35,4 @@ This repository serves as both an **open knowledge source** and a **legal–ethi
 - Free for study, education, and humanitarian purposes.  
 - Not permitted for military or commercial exploitation.  
 
----d6e23953126b62940b0d9ee8d001e3e85ac7cafd0835963c13e5a9853d0a3dd4
+---24dea5815835f717d8fbd2c340ec0cffe1197f8555b51e8b92edf6104801da06
