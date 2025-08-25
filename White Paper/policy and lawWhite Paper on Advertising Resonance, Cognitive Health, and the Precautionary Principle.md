@@ -170,7 +170,7 @@ $$
 - $s_{\text{txt}}(t)$: textual/semantic stimulus (keywords)
 - $s_{\text{soc}}(t)$: social stimulus (likes, shares, notifications)
 
-Each stimulus has a "salience" or conspicuousness, $m_k(t)$, defined as the rate of change of the stimulus:
+Each stimulus has a "salience" or conspicuousness, $$m_k(t)$$, defined as the rate of change of the stimulus:
 $$m_k(t) = \left|\frac{d}{dt} s_k(t)\right|^\alpha, \quad \alpha \in [0.5, 1]$$
 This salience captures the degree of abrupt change that attracts attention, such as a quick scene change in a video or a sudden loud beat in music.
 
