@@ -21,7 +21,7 @@ This repository contains the core documents that connect **science, policy, law,
   - Dopamine Reward Loop  
 
 ### 4. Cultural & Public Framework  
-- [UNESCO Application Letter](https://github.com/EllenBosMarcelMulder/Coherence-Act/blob/main/UNESCO-Application-Letter.md)  
+- [UNESCO Application Letter](https://github.com/EllenBosMarcelMulder/Coherence-Act/blob/main/legal/UNESCO/UNESCO-Application-Letter.md)  
 - [Coherence-Act Framework](https://github.com/EllenBosMarcelMulder/Coherence-Act/blob/main/Coherence-Act.md)  
 
 ---
