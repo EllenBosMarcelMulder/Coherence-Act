@@ -178,7 +178,7 @@ This salience captures the degree of abrupt change that attracts attention, such
 
 The brain is modeled as a set of resonance frequencies (e.g., the naturally occurring oscillations). The extent to which an external stimulus resonates with the brain is described by a filter, 
 $$H_k(f)$$
-$$H_k(f)$$ = $$\frac{1}{1 + \left(\frac{f - f_{0,k}}{\Delta f_k}\right)^{2p}}$Here $f_{0,k}$$ 
+$H_k(f) = \frac{1}{1 + \left(\frac{f - f_{0,k}}{\Delta f_k}\right)^{2p}}$Here $f_{0,k}$
 , is the resonance frequency of the k-th mode in the brain, and $\Delta f_k$ is the bandwidth of the resonance. The "sensitivity" of the brain to a certain frequency, 
 $$\chi_k(f)$$
 , is the weighting of this filter:
