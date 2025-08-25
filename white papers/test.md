@@ -1,4 +1,4 @@
-### **White Paper on Advertising Resonance, Cognitive Health, and the Precautionary Principle**
+8### **White Paper on Advertising Resonance, Cognitive Health, and the Precautionary Principle**
 
 ---
 
