@@ -11,11 +11,11 @@ This repository contains the core documents that connect **science, policy, law,
 - [Implosive Field Theory and Plasma Dynamics](https://github.com/EllenBosMarcelMulder/Coherence-Act/blob/main/science/Implosive%20Field%20Theory%20and%20Plasma%20Dynamics%3A%20A%20Unified%20Framework%20for%20Multi-Scale%20Coherent%20Phenomena.md)  
 
 ### 2. Policy & Law  
-- [The Influence of Advertising on Cognition and Resonance](https://github.com/EllenBosMarcelMulder/Coherence-Act/blob/main/policy%20and%20law/The%20Influence%20of%20Advertising%20on%20Cognition%20and%20Resonance.md)  
 - [UNESCO Heritage Notice](https://github.com/EllenBosMarcelMulder/Coherence-Act/blob/main/legal/UNESCO/UNESCO-Application-Letter.md)  
+- [Technical Infrastructure Versus Epistemic Ideals: A Critical Analysis of Contemporary Scientific Communication](https://github.com/EllenBosMarcelMulder/Coherence-Act/blob/main/policy%20and%20law/Technical%20Infrastructure%20Versus%20Epistemic%20Ideals_%20A%20Critical%20Analysis%20of%20Contemporary%20Scientific%20Communication.pdf)  
 
 ### 3. Mathematical & Measurement Models  
-- [Equivalent Resonance Dose (ERD) – Framework and Formulas](https://github.com/EllenBosMarcelMulder/Coherence-Act/blob/main/policy%20and%20law/The%20Influence%20of%20Advertising%20on%20Cognition%20and%20Resonance.md#appendix-mathematical-models-for-erd)  
+- Equivalent Resonance Dose (ERD) – Framework and Formulas *(in preparation)*  
   - Formal ERD definition  
   - Decision Fatigue Function  
   - Dopamine Reward Loop  
@@ -34,5 +34,3 @@ This repository serves as both an **open knowledge source** and a **legal–ethi
 ### Usage  
 - Free for study, education, and humanitarian purposes.  
 - Not permitted for military or commercial exploitation.  
-
----24dea5815835f717d8fbd2c340ec0cffe1197f8555b51e8b92edf6104801da06
