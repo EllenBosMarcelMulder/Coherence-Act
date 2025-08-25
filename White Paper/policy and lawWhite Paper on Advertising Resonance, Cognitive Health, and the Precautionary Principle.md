@@ -202,10 +202,6 @@ $$
 P_{\mathrm{res}}(t)=\gamma\left\langle \sum_{k}\int_{0}^{\infty}\chi_{k}(f)\,|\hat{s}_{k}(f)|^{2}\,\mathrm{d}f\right\rangle_{T}
 $$
 
-")
-
-
-
 The resonance power, $P_{\text{res}}(t)$, is the sum of the spectral energy of each stimulus, weighted by the sensitivity of the brain, $\chi_k(f)$. The dose rate, $\dot{D}(t)$, is therefore higher as the stimulus is stronger and resonates better with the brain. The salience factor, $1+\lambda\,\bar{m}(t)$, increases the dose for stimuli that attract attention.
 
 The cumulative ERD over a period, $\text{ERD}(T_1, T_2)$, is simply the integral of the dose rate:
