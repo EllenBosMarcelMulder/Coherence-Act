@@ -195,7 +195,12 @@ Here, $w_k$ is a weighting factor and $\sigma_k(f)$ is the power spectral densit
 The Equivalent Resonance Dose ($\text{ERD}$) is the central metric and is modeled as a cumulative dose. The dose rate, $\dot{D}(t)$, is a combination of the physical "resonance power" and a salience factor:
 
 $$
-\dot{D}(t)=\underbrace{\gamma \left\langle \sum_k \int_0^\infty \chi_k(f) \left|\mathcal{F}\{s_k(t)\}\right|^2 df \right\rangle_T}_{\text{Physical Resonance Power, } P_{\text{res}}(t)} \cdot \underbrace{\Big(1+\lambda\,\bar{m}(t)\Big)}_{\text{Salience}}
+\dot{D}(t) =
+\underbrace{\gamma \left\langle \sum_k \int_0^\infty \chi_k(f)
+\left|\mathcal{F}\{s_k(t)\}\right|^2 df \right\rangle_T}
+_{\text{Physical Resonance Power, } P_{\text{res}}(t)}
+\cdot
+\underbrace{\Big(1+\lambda\,\bar{m}(t)\Big)}_{\text{Salience}}
 $$
 
 The resonance power, $P_{\text{res}}(t)$, is the sum of the spectral energy of each stimulus, weighted by the sensitivity of the brain, $\chi_k(f)$. The dose rate, $\dot{D}(t)$, is therefore higher as the stimulus is stronger and resonates better with the brain. The salience factor, $1+\lambda\,\bar{m}(t)$, increases the dose for stimuli that attract attention.
