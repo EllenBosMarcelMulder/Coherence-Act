@@ -192,28 +192,36 @@ Here, $w_k$ is a weighting factor and $\sigma_k(f)$ is the power spectral densit
 
 ### **3. The Equivalent Resonance Dose (ERD)**
 
-The Equivalent Resonance Dose ($\text{ERD}$) is the central metric and is modeled as a cumulative dose. 
-The dose rate, $\dot{D}(t)$, is a combination of the physical "resonance power" and a salience factor:
+The Equivalent Resonance Dose ($\text{ERD}$) is the central metric and is modeled as a cumulative dose. The dose rate, $\dot{D}(t)$, is a combination of the physical "resonance power" and a salience factor:
 
 $$
-\dot{D}(t) = 
-\underbrace{\gamma \left\langle \sum_k \int_0^\infty \chi_k(f) 
-\left|\mathcal{F}\{s_k(t)\}\right|^2 df \right\rangle_T}
-_{\text{Physical Resonance Power, } P_{\text{res}}(t)}
-\cdot 
-\underbrace{\Big(1+\lambda\,\bar{m}(t)\Big)}_{\text{Salience}}
+\dot{D}(t)=\underbrace{\gamma \left\langle \sum_k \int_0^\infty \chi_k(f) \left|\mathcal{F}\{s_k(t)\}\right|^2 df \right\rangle_T}_{\text{Physical Resonance Power, } P_{\text{res}}(t)} \cdot \underbrace{\Big(1+\lambda\,\bar{m}(t)\Big)}_{\text{Salience}}
 $$
 
-The resonance power, $P_{\text{res}}(t)$, is the sum of the spectral energy of each stimulus, 
-weighted by the sensitivity of the brain, $\chi_k(f)$. 
-The dose rate, $\dot{D}(t)$, is therefore higher as the stimulus is stronger and resonates better with the brain. 
-The salience factor, $1+\lambda\,\bar{m}(t)$, increases the dose for stimuli that attract attention.
+The resonance power, $P_{\text{res}}(t)$, is the sum of the spectral energy of each stimulus, weighted by the sensitivity of the brain, $\chi_k(f)$. The dose rate, $\dot{D}(t)$, is therefore higher as the stimulus is stronger and resonates better with the brain. The salience factor, $1+\lambda\,\bar{m}(t)$, increases the dose for stimuli that attract attention.
 
 The cumulative ERD over a period, $\text{ERD}(T_1, T_2)$, is simply the integral of the dose rate:
 
 $$
-\mathrm{ERD}(T_1,T_2) = \int_{T_1}^{T_2} \dot{D}(t)\,dt
+\mathrm{ERD}(T_1,T_2)=\int_{T_1}^{T_2}\dot{D}(t)\,dt
 $$
+
+This provides a single, unified measure of total exposure, allowing direct comparison between different media types (e.g., a digital ad versus a billboard). The "Equivalent" in ERD suggests that one can convert different stimuli to the same scale. This allows a direct comparison, such as the hypothesis:
+
+$$
+ERD_{digital} = ERD_{analog}
+$$
+
+would lead to a similar biological response.
+
+The model also takes into account the synergistic effect of multi-sensory stimuli. When different channels are coherent (e.g., synchronized sound and image), their impact is amplified, which can be captured in a correlation term:
+
+$$
+\mathrm{ERD} \leftarrow \mathrm{ERD} + \kappa \sum_{k \ne \ell} \int_0^\infty \rho_{k\ell}(f) \, |\mathcal{F}\{s_k(t)\}| \, |\mathcal{F}\{s_\ell(t)\}| \, df
+$$
+
+Here, $\rho_{k\ell}(f)$ is a frequency-dependent correlation factor between stimulus $k$ and stimulus $\ell$.
+
 
 #### **4. Relationship between ERD and Observable Biomarkers**
 
