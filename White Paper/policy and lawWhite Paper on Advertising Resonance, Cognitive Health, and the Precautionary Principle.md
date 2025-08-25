@@ -177,14 +177,14 @@ This salience captures the degree of abrupt change that attracts attention, such
 #### **2. Resonance Filter**
 
 The brain is modeled as a set of resonance frequencies (e.g., the naturally occurring oscillations). The extent to which an external stimulus resonates with the brain is described by a filter, 
-$$H_k(f)$$
+$H_k(f)$
 $H_k(f) = \frac{1}{1 + \left(\frac{f - f_{0,k}}{\Delta f_k}\right)^{2p}}$Here $f_{0,k}$
 , is the resonance frequency of the k-th mode in the brain, and $\Delta f_k$ is the bandwidth of the resonance. The "sensitivity" of the brain to a certain frequency, 
-$$\chi_k(f)$$
+$\chi_k(f)$
 , is the weighting of this filter:
-$$\chi_k(f) = w_k \cdot H_k^2(f) \cdot \sigma_k(f)$$
+$\chi_k(f) = w_k \cdot H_k^2(f) \cdot \sigma_k(f)$
 Here, 
-$$w_k$$
+$w_k$
 , is a weighting factor and $\sigma_k(f)$ is the power spectral density of the internal, endogenous "background noise" of the brain. This noise can change due to factors such as sleep deprivation or stress, which affects resonance sensitivity.
 
 #### **3. The Equivalent Resonance Dose (ERD)**
