@@ -195,12 +195,14 @@ Here, $w_k$ is a weighting factor and $\sigma_k(f)$ is the power spectral densit
 The Equivalent Resonance Dose ($\text{ERD}$) is the central metric and is modeled as a cumulative dose. The dose rate, $\dot{D}(t)$, is a combination of the physical "resonance power" and a salience factor:
 
 $$
-\dot{D}(t) =
-\underbrace{\gamma \Big\langle \sum_k \int_{0}^{\infty} \chi_k(f)\,\big|\mathcal{F}\{s_k(t)\}\big|^{2}\, df \Big\rangle_T}
-_{\text{Physical Resonance Power, }\, P_{\text{res}}(t)}
-\cdot
-\underbrace{\big(1+\lambda\,\bar{m}(t)\big)}_{\text{Salience}}
+\dot{D}(t)=P_{\mathrm{res}}(t)\,\bigl(1+\lambda\,\bar{m}(t)\bigr)
 $$
+
+$$
+P_{\mathrm{res}}(t)=\gamma\left\langle \sum_{k}\int_{0}^{\infty}\chi_{k}(f)\,|\hat{s}_{k}(f)|^{2}\,\mathrm{d}f\right\rangle_{T}
+$$
+
+")
 
 
 
