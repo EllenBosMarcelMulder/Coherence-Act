@@ -8,7 +8,7 @@ This repository contains the core documents that connect **science, policy, law,
 ## Contents  
 
 ### 1. Science & Technology  
-- [Implosive Field Theory and Plasma Dynamics](https://github.com/EllenBosMarcelMulder/Coherence-Act/blob/main/Implosive%20Field%20Theory%20and%20Plasma%20Dynamics%3A%20A%20Unified%20Framework%20for%20Multi-Scale%20Coherent%20Phenomena.md)  
+- [Implosive Field Theory and Plasma Dynamics](https://github.com/EllenBosMarcelMulder/Coherence-Act/blob/main/science/Implosive%20Field%20Theory%20and%20Plasma%20Dynamics%3A%20A%20Unified%20Framework%20for%20Multi-Scale%20Coherent%20Phenomena.md)  
 
 ### 2. Policy & Law  
 - [The Influence of Advertising on Cognition and Resonance](https://github.com/EllenBosMarcelMulder/Coherence-Act/blob/main/policy%20and%20law/The%20Influence%20of%20Advertising%20on%20Cognition%20and%20Resonance.md)  
