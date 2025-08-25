@@ -8,8 +8,7 @@ This repository contains the core documents that connect **science, policy, law,
 ## Contents  
 
 ### 1. Science & Technology  
-- [Implosive Field Theory and Plasma Dynamics](https://github.com/EllenBosMarcelMulder/Coherence-Act/blob/main/Implosive%20Field%20Theory%20and%20Plasma%20Dynamics:%20A%20Unified%20Framework%20for%20Multi-Scale%20Coherent%20Phenomena.md)  
-- [Root Map of the Coherence-Act](https://github.com/EllenBosMarcelMulder/Coherence-Act/blob/main/OLDER%20VERSIONS%20OF%20THE%20ROOT%20MAP/README.md)  
+- [Implosive Field Theory and Plasma Dynamics](https://github.com/EllenBosMarcelMulder/Coherence-Act/blob/main/Implosive%20Field%20Theory%20and%20Plasma%20Dynamics%3A%20A%20Unified%20Framework%20for%20Multi-Scale%20Coherent%20Phenomena.md)  
 
 ### 2. Policy & Law  
 - [The Influence of Advertising on Cognition and Resonance](https://github.com/EllenBosMarcelMulder/Coherence-Act/blob/main/policy%20and%20law/The%20Influence%20of%20Advertising%20on%20Cognition%20and%20Resonance.md)  
@@ -22,8 +21,8 @@ This repository contains the core documents that connect **science, policy, law,
   - Dopamine Reward Loop  
 
 ### 4. Cultural & Public Framework  
-- [UNESCO Application Letter](https://github.com/EllenBosMarcelMulder/Coherence-Act/blob/main/UNESCO-Application-Letter.pdf)  
-- [Coherence-Act Framework](https://github.com/EllenBosMarcelMulder/Coherence-Act/blob/main/Coherence-Act.pdf)  
+- [UNESCO Application Letter](https://github.com/EllenBosMarcelMulder/Coherence-Act/blob/main/UNESCO-Application-Letter.md)  
+- [Coherence-Act Framework](https://github.com/EllenBosMarcelMulder/Coherence-Act/blob/main/Coherence-Act.md)  
 
 ---
 
@@ -36,4 +35,4 @@ This repository serves as both an **open knowledge source** and a **legal–ethi
 - Free for study, education, and humanitarian purposes.  
 - Not permitted for military or commercial exploitation.  
 
----4116a56c36098830d4aea87327d7e488caca96c73224de1d756b9391002c6770
+---d6e23953126b62940b0d9ee8d001e3e85ac7cafd0835963c13e5a9853d0a3dd4
