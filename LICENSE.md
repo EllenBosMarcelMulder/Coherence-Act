@@ -14,6 +14,15 @@ free access for education, research, and humanitarian use, while prohibiting mis
 
 ---
 
+## Legal Framework & Liability Notice
+
+This white paper operates under the binding framework of the  
+[Liability Statement – Precautionary Principle and Protection of Future Generations](https://github.com/EllenBosMarcelMulder/Coherence-Act/blob/main/legal/Liability%20Statement%20–%20Precautionary%20Principle%20and%20Protection%20of%20Future%20Generations*.md).  
+
+All evidence, conclusions, and recommendations presented herein must therefore be read in the context of established duty of care, precautionary obligations, and intergenerational responsibility.
+
+---
+
 ## Terms of Use
 
 1. **Free Access for Study and Education**  
