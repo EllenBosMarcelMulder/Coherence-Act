@@ -39,9 +39,14 @@ This repository serves as both an **open knowledge source** and a **legal–ethi
 
 ## Legal Framework & Liability Notice
 
-This white paper operates under the binding framework of the  
-[Liability Statement – Precautionary Principle and Protection of Future Generations](https://github.com/EllenBosMarcelMulder/Coherence-Act/blob/main/legal/Liability%20Statement%20–%20Precautionary%20Principle%20and%20Protection%20of%20Future%20Generations*.md).  
+This document operates under the binding framework of:  
 
-All evidence, conclusions, and recommendations presented herein must therefore be read in the context of established duty of care, precautionary obligations, and intergenerational responsibility.
+- [Liability Statement – Precautionary Principle and Protection of Future Generations](https://github.com/EllenBosMarcelMulder/Coherence-Act/blob/main/legal/Liability%20Statement%20–%20Precautionary%20Principle%20and%20Protection%20of%20Future%20Generations*.md)
+- [International Public Injunction for Media Transparency and Blockchain Verification](https://github.com/EllenBosMarcelMulder/Coherence-Act/blob/main/legal/International%20Public%20Injunction%20for%20Media%20Transparency%20and%20Blockchain%20Verification.md) 
+- [LEGAL NOTICE.md](https://github.com/EllenBosMarcelMulder/Coherence-Act/blob/main/LEGAL%20NOTICE.md)  
+- [LICENSE.md](https://github.com/EllenBosMarcelMulder/Coherence-Act/blob/main/LICENSE.md)  
+- [LEGAL NOTICE DISCLAIMER.md](https://github.com/EllenBosMarcelMulder/Coherence-Act/blob/main/legal/LEGAL%20NOTICE%20%20DISCLAIMER.md)
 
----f1c7432d769e1db42ee4eb4c0b4649f859bc9eac6e77250460b66125374b2213
+All evidence, conclusions, and recommendations presented herein must therefore be read in the context of **duty of care**, **precautionary obligations**, and **intergenerational responsibility**.  
+
+---31cfb7b9f99aeba9659ec5cf5e1364d376c2525df47bfcd022814f4ca885c7d6
