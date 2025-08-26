@@ -12,7 +12,7 @@ This repository contains the core documents that connect **science, policy, law,
 
 ### 2. Policy & Law  
 - [UNESCO Heritage Notice](https://github.com/EllenBosMarcelMulder/Coherence-Act/blob/main/legal/UNESCO/UNESCO-Application-Letter.md)  
-- [Technical Infrastructure Versus Epistemic Ideals: A Critical Analysis of Contemporary Scientific Communication](https://github.com/EllenBosMarcelMulder/Coherence-Act/blob/main/Technical%20Infrastructure%20Versus%20Epistemic%20Ideals%3A%20A%20Critical%20Analysis%20of%20Contemporary%20Scientific%20Communication.md)  
+- [Technical Infrastructure Versus Epistemic Ideals: A Critical Analysis of Contemporary Scientific Communication](https://github.com/EllenBosMarcelMulder/Coherence-Act/blob/main/white%20papers/Technical%20Infrastructure%20Versus%20Epistemic%20Ideals%3A%20A%20Critical%20Analysis%20of%20Contemporary%20Scientific%20Communication.md)  
 
 ### 3. Mathematical & Measurement Models  
 - Equivalent Resonance Dose (ERD) – Framework and Formulas *(in preparation)*  
@@ -35,4 +35,4 @@ This repository serves as both an **open knowledge source** and a **legal–ethi
 - Free for study, education, and humanitarian purposes.  
 - Not permitted for military or commercial exploitation.  
 
----31cc1e0af913f4b6d46762b03ad429a7caa8573f05ee5e31a94ecdee5ed603bd
+---f85af5dc40e46f139619c340235180f323c1e567e3b295436733adcfce801437
