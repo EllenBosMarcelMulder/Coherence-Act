@@ -46,10 +46,11 @@ We restore what was skewed. Because if we don’t, it will break us all.
 
 This document operates under the binding framework of:  
 
-- [Liability Statement – Precautionary Principle and Protection of Future Generations](https://github.com/EllenBosMarcelMulder/Coherence-Act/blob/main/legal/Liability%20Statement%20–%20Precautionary%20Principle%20and%20Protection%20of%20Future%20Generations.md)  
+- [Liability Statement – Precautionary Principle and Protection of Future Generations](https://github.com/EllenBosMarcelMulder/Coherence-Act/blob/main/legal/Liability%20Statement%20–%20Precautionary%20Principle%20and%20Protection%20of%20Future%20Generations*.md)
+- [International Public Injunction for Media Transparency and Blockchain Verification](https://github.com/EllenBosMarcelMulder/Coherence-Act/blob/main/legal/International%20Public%20Injunction%20for%20Media%20Transparency%20and%20Blockchain%20Verification.md) 
 - [LEGAL NOTICE.md](https://github.com/EllenBosMarcelMulder/Coherence-Act/blob/main/LEGAL%20NOTICE.md)  
 - [LICENSE.md](https://github.com/EllenBosMarcelMulder/Coherence-Act/blob/main/LICENSE.md)  
-- [LEGAL NOTICE DISCLAIMER.md](https://github.com/EllenBosMarcelMulder/Coherence-Act/blob/main/legal/LEGAL%20NOTICE%20DISCLAIMER.md)  
+- [LEGAL NOTICE DISCLAIMER.md](https://github.com/EllenBosMarcelMulder/Coherence-Act/blob/main/legal/LEGAL%20NOTICE%20%20DISCLAIMER.md)
 
 All evidence, conclusions, and recommendations presented herein must therefore be read in the context of **duty of care**, **precautionary obligations**, and **intergenerational responsibility**.  
 
