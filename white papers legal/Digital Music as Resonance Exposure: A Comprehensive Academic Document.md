@@ -4,6 +4,18 @@
 
 This document examines the multidimensional aspects of digital music as resonance exposure, integrating scientific, legal, insurance, and health perspectives. The research reveals a complex landscape where therapeutic applications coexist with significant health risks, comparable to historical crises such as asbestos and tobacco.
 
+---
+
+## Legal Framework & Liability Notice
+
+This white paper operates under the binding framework of the  
+[Liability Statement – Precautionary Principle and Protection of Future Generations](https://github.com/EllenBosMarcelMulder/Coherence-Act/blob/main/legal/Liability%20Statement%20–%20Precautionary%20Principle%20and%20Protection%20of%20Future%20Generations*.md).  
+
+All evidence, conclusions, and recommendations presented herein must therefore be read in the context of established duty of care, precautionary obligations, and intergenerational responsibility.
+
+---
+
+
 ## 1. Scientific Studies: 40Hz Gamma Resonance and Neurological Effects
 
 ### 40Hz Gamma Wave Entrainment for Alzheimer's Treatment
@@ -380,4 +392,4 @@ The need for proactive policy-making, industrial responsibility, and public awar
   
 65. Swiss Re. SONAR Research. https://www.swissre.com/institute/research/sonar.html
 
----ebcf9231f73935c67a13197f7a898d9c975ef77a15fc5d7cc315d7a86b653716
+---a3c633ad1110fa0c9c8659dac19fd6eabdb4401302bdfc1006e82a217ba51022
