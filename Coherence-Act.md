@@ -116,7 +116,8 @@ This document operates under the binding framework of:
 
 All evidence, conclusions, and recommendations presented herein must therefore be read in the context of **duty of care**, **precautionary obligations**, and **intergenerational responsibility**.  
 
----31cfb7b9f99aeba9659ec5cf5e1364d376c2525df47bfcd022814f4ca885c7d6
+---
+
 *Adopted August 2025 — Custodians: Marcel Mulder, Ellen Bos, Niels Groeneveld.*
 
----e7c950b73cf5df206e0c3e8b829973083dcaae0bb1f03503969977e61eff0d17
+---307fdb078b0c905348f053e4c8fb5bd795023b7d45dea92c6c16cbb0601f2ccb
