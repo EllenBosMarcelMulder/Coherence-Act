@@ -1,11 +1,10 @@
-# README
+# README -> This Repro is NEW is under daily construction, all rights reserved by Marcel Mulder, Niels Groeneveld and Ellen Bos.
 
 This repository publishes and safeguards research and legal frameworks of international relevance.
 
 The root always contains the current versions of the files.
 If a root file is changed or updated, the previous version will be moved to the folder /archive/.
 
-This Repro is under daily construction, all rights reserved by Marcel Mulder, Niels Groeneveld and Ellen Bos.
 
 ---
 
@@ -21,4 +20,4 @@ This document operates under the binding framework of:
 
 All evidence, conclusions, and recommendations presented herein must therefore be read in the context of **duty of care**, **precautionary obligations**, and **intergenerational responsibility**.  
 
----cf083ce4c97d65e66a0d755f8b32252f02d72a0a35a7ccfd70a2562910f2892b
+---429443ac4af1e7eb7660c913e4932e27ed4dfc703d855379fa994d5d06b9f902
