@@ -15,6 +15,15 @@ under the UNESCO 2003 Convention for the Safeguarding of Intangible Cultural Her
 
 ---
 
+## Legal Framework & Liability Notice
+
+This white paper operates under the binding framework of the  
+[Liability Statement – Precautionary Principle and Protection of Future Generations](https://github.com/EllenBosMarcelMulder/Coherence-Act/blob/main/legal/Liability%20Statement%20–%20Precautionary%20Principle%20and%20Protection%20of%20Future%20Generations*.md).  
+
+All evidence, conclusions, and recommendations presented herein must therefore be read in the context of established duty of care, precautionary obligations, and intergenerational responsibility.
+
+---
+
 ## Article 1 — Purpose
 - To safeguard the universal right to coherent life and environment.  
 - To ensure open access to knowledge for education and humanitarian purposes.  
