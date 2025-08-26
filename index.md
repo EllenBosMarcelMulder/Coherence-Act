@@ -8,7 +8,7 @@ This repository contains the core documents that connect **science, policy, law,
 ## Contents  
 
 ### 1. Science & Technology  
-- [Implosive Field Theory and Plasma Dynamics](https://github.com/EllenBosMarcelMulder/Coherence-Act/blob/main/science/Implosive%20Field%20Theory%20and%20Plasma%20Dynamics%3A%20A%20Unified%20Framework%20for%20Multi-Scale%20Coherent%20Phenomena.md)  
+- [Implosive Field Theory and Plasma Dynamics](https://github.com/EllenBosMarcelMulder/Coherence-Act/blob/main/white%20papers%20science/Implosive%20Field%20Theory%20and%20Plasma%20Dynamics:%20A%20Unified%20Framework%20for%20Multi-Scale%20Coherent%20Phenomena.md)  
 
 ### 2. Policy & Law  
 - [UNESCO Heritage Notice](https://github.com/EllenBosMarcelMulder/Coherence-Act/blob/main/legal/UNESCO/UNESCO-Application-Letter.md)  
@@ -35,4 +35,4 @@ This repository serves as both an **open knowledge source** and a **legal–ethi
 - Free for study, education, and humanitarian purposes.  
 - Not permitted for military or commercial exploitation.  
 
----f85af5dc40e46f139619c340235180f323c1e567e3b295436733adcfce801437
+---1cf4e2ddfb6d8fe5ee2ed0d7a5d2bbb6033754824431d5f003e0653cb1489d87
