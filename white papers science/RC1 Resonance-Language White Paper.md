@@ -32,6 +32,15 @@ All applications proceed through **regular validation pathways**, including esta
 
 ---
 
+## Legal Framework & Liability Notice
+
+This white paper operates under the binding framework of the  
+[Liability Statement – Precautionary Principle and Protection of Future Generations](https://github.com/EllenBosMarcelMulder/Coherence-Act/blob/main/legal/Liability%20Statement%20–%20Precautionary%20Principle%20and%20Protection%20of%20Future%20Generations*.md).  
+
+All evidence, conclusions, and recommendations presented herein must therefore be read in the context of established duty of care, precautionary obligations, and intergenerational responsibility.
+
+---
+
 ## Executive Summary
 
 This document presents a **comprehensive framework for international cooperation** in developing resonance-language technologies based on quantum coherence principles.  
@@ -649,4 +658,4 @@ It is a **chapter-opening** — a declaration that:
 
 **The Age of Resonance has begun.**  
 
----7fcc80b2da5e1844c4aa769270a737807914ffd2a562e4ebe1285377a94c98b0
+---4eacc849c267c7c27b770b8b100b1c21c986667371cfb5606f4daefb64f82b87
