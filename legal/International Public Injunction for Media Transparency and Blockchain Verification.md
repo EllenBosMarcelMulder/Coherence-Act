@@ -548,4 +548,18 @@ This Public Injunction represents the consensus of international law, technologi
 - **Article 19**. https://www.article19.org/
 - **Freedom House**. https://freedomhouse.org/
 
----034434ddee7defcedefe152287f7565932067bf22047bba4476c8a01dfa0f841
+---
+
+## Legal Framework & Liability Notice
+
+This document operates under the binding framework of:  
+
+- [Liability Statement – Precautionary Principle and Protection of Future Generations](https://github.com/EllenBosMarcelMulder/Coherence-Act/blob/main/legal/Liability%20Statement%20–%20Precautionary%20Principle%20and%20Protection%20of%20Future%20Generations*.md)
+- [International Public Injunction for Media Transparency and Blockchain Verification](https://github.com/EllenBosMarcelMulder/Coherence-Act/blob/main/legal/International%20Public%20Injunction%20for%20Media%20Transparency%20and%20Blockchain%20Verification.md) 
+- [LEGAL NOTICE.md](https://github.com/EllenBosMarcelMulder/Coherence-Act/blob/main/LEGAL%20NOTICE.md)  
+- [LICENSE.md](https://github.com/EllenBosMarcelMulder/Coherence-Act/blob/main/LICENSE.md)  
+- [LEGAL NOTICE DISCLAIMER.md](https://github.com/EllenBosMarcelMulder/Coherence-Act/blob/main/legal/LEGAL%20NOTICE%20%20DISCLAIMER.md)
+
+All evidence, conclusions, and recommendations presented herein must therefore be read in the context of **duty of care**, **precautionary obligations**, and **intergenerational responsibility**.  
+
+---5b9e68672b3dc5a9c16cbd8c2a72983185ec348898e18e0b8c0d2d2010f747d7
