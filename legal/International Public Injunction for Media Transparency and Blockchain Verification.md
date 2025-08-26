@@ -446,107 +446,81 @@ This Public Injunction represents the consensus of international law, technologi
 
 ---
 
-## BRONNEN EN LITERATUUR
+## Sources and References
 
-### Internationale Verdragen en Conventies
+### International Treaties and Conventions
 
-1. **International Covenant on Civil and Political Rights (ICCPR)**, Article 19. United Nations, 1966. https://www.ohchr.org/en/instruments-mechanisms/instruments/international-covenant-civil-and-political-rights
-  
-2. **European Convention on Human Rights (ECHR)**, Article 10. Council of Europe, 1950. https://www.echr.coe.int/documents/convention_eng.pdf
-  
-3. **American Convention on Human Rights**, Article 13. Organization of American States, 1969. https://www.oas.org/dil/treaties_B-32_American_Convention_on_Human_Rights.htm
-  
-4. **African Charter on Human and Peoples' Rights**, Article 9. Organization of African Unity, 1981. https://www.achpr.org/legalinstruments/detail?id=49
-  
-5. **Vienna Convention on the Law of Treaties**, Article 25. United Nations, 1969. https://legal.un.org/ilc/texts/instruments/english/conventions/1_1_1969.pdf
-  
+1. **International Covenant on Civil and Political Rights (ICCPR)**, Article 19. United Nations, 1966. https://www.ohchr.org/en/instruments-mechanisms/instruments/international-covenant-civil-and-political-rights  
+2. **European Convention on Human Rights (ECHR)**, Article 10. Council of Europe, 1950. https://www.echr.coe.int/documents/convention_eng.pdf  
+3. **American Convention on Human Rights**, Article 13. Organization of American States, 1969. https://www.oas.org/dil/treaties_B-32_American_Convention_on_Human_Rights.htm  
+4. **African Charter on Human and Peoples' Rights**, Article 9. Organization of African Unity, 1981. https://www.achpr.org/legalinstruments/detail?id=49  
+5. **Vienna Convention on the Law of Treaties**, Article 25. United Nations, 1969. https://legal.un.org/ilc/texts/instruments/english/conventions/1_1_1969.pdf  
 
-### Filosofische Werken
+---
 
-5. **Habermas, Jürgen**. *The Theory of Communicative Action*. Boston: Beacon Press, 1984. ISBN: 978-0807015070
-  
-6. **Arendt, Hannah**. "Truth and Politics" in *Between Past and Future*. New York: Penguin Books, 1968. ISBN: 978-0143104810
-  
-7. **Chomsky, Noam & Herman, Edward S.** *Manufacturing Consent: The Political Economy of the Mass Media*. New York: Pantheon Books, 1988. ISBN: 978-0375714498
-  
-8. **Foucault, Michel**. *The Archaeology of Knowledge*. New York: Pantheon Books, 1972. ISBN: 978-0394711065
-  
+### Philosophical Works
 
-### Technische Standaarden en Protocollen
+6. **Habermas, Jürgen**. *The Theory of Communicative Action*. Boston: Beacon Press, 1984. ISBN: 978-0807015070  
+7. **Arendt, Hannah**. "Truth and Politics" in *Between Past and Future*. New York: Penguin Books, 1968. ISBN: 978-0143104810  
+8. **Chomsky, Noam & Herman, Edward S.** *Manufacturing Consent: The Political Economy of the Mass Media*. New York: Pantheon Books, 1988. ISBN: 978-0375714498  
+9. **Foucault, Michel**. *The Archaeology of Knowledge*. New York: Pantheon Books, 1972. ISBN: 978-0394711065  
 
-9. **Nakamoto, Satoshi**. "Bitcoin: A Peer-to-Peer Electronic Cash System". 2008. https://bitcoin.org/bitcoin.pdf
-  
-10. **National Institute of Standards and Technology (NIST)**. "Cryptographic Standards and Guidelines". https://csrc.nist.gov/projects/cryptographic-standards-and-guidelines
-  
-11. **Benet, Juan**. "IPFS - Content Addressed, Versioned, P2P File System". 2014. https://ipfs.io/ipfs/QmR7GSQM93Cx5eAg6a6yRzNde1FQv7uL6X1o4k7zrJa3LX/ipfs.draft3.pdf
-  
-12. **FIPS PUB 180-4**. "Secure Hash Standard (SHS)". NIST, 2015. https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.180-4.pdf
-  
-13. **FIPS PUB 202**. "SHA-3 Standard: Permutation-Based Hash and Extendable-Output Functions". NIST, 2015. https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.202.pdf
-  
-14. **Bernstein, D.J., et al.** "Ed25519: high-speed high-security signatures". 2011. https://ed25519.cr.yp.to/ed25519-20110926.pdf
-  
-15. **ANSI X9.62**. "Public Key Cryptography for the Financial Services Industry: The Elliptic Curve Digital Signature Algorithm (ECDSA)". 2005.
-  
-16. **Protocol Labs**. "IPFS Documentation". https://docs.ipfs.io/
-  
-17. **Protocol Labs**. "Filecoin: A Decentralized Storage Network". 2017. https://filecoin.io/filecoin.pdf
-  
-18. **Williams, Sam, et al.** "Arweave: A Protocol for Economically Sustainable Information Permanence". 2019. https://www.arweave.org/yellow-paper.pdf
-  
-19. **Ethereum Foundation**. "Ethereum Whitepaper". https://ethereum.org/en/whitepaper/
-  
-20. **Polygon Technology**. "Polygon Documentation". https://docs.polygon.technology/
-  
-21. **Binance**. "Binance Smart Chain Documentation". https://docs.bnbchain.org/
-  
-22. **W3C**. "Decentralized Identifiers (DIDs) v1.0". 2022. https://www.w3.org/TR/did-core/
-  
-23. **W3C**. "Verifiable Credentials Data Model v1.1". 2022. https://www.w3.org/TR/vc-data-model/
-  
-24. **Content Authenticity Initiative (CAI)**. "C2PA Technical Specification". https://c2pa.org/specifications/
-  
-25. **Orlovsky, Peter**. "OpenTimestamps: Scalable, Trustless, Distributed Timestamping with Bitcoin". 2016. https://opentimestamps.org/
-  
+---
 
-### Juridische Bronnen
+### Technical Standards and Protocols
 
-27. **Van Dam, Cees**. *European Tort Law*. Oxford University Press, 2013. ISBN: 978-0199672264 (Dwangsom concept)
-  
-28. **European Court of Human Rights**. https://www.echr.coe.int/
-  
-29. **Inter-American Court of Human Rights**. https://www.corteidh.or.cr/
-  
-30. **International Court of Justice**. https://www.icj-cij.org/
-  
-31. **International Criminal Court**. https://www.icc-cpi.int/
-  
-32. **EU Directive 2019/1937** on the protection of persons who report breaches of Union law. European Union, 2019. https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019L1937
-  
-33. **International Humanitarian Law (IHL)**. International Committee of the Red Cross. https://www.icrc.org/en/doc/what-is-ihl/
-  
-34. **Rome Statute of the International Criminal Court**, Article 7. United Nations, 1998. https://www.icc-cpi.int/sites/default/files/RS-Eng.pdf
-  
-35. **Digital Services Act (DSA)**, Regulation (EU) 2022/2065. European Union, 2022. https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R2065
-  
-36. **UNCITRAL Model Law on Electronic Commerce**. United Nations, 1996. https://uncitral.un.org/en/texts/ecommerce/modellaw/electronic_commerce
-  
+10. **Nakamoto, Satoshi**. "Bitcoin: A Peer-to-Peer Electronic Cash System". 2008. https://bitcoin.org/bitcoin.pdf  
+11. **National Institute of Standards and Technology (NIST)**. "Cryptographic Standards and Guidelines". https://csrc.nist.gov/projects/cryptographic-standards-and-guidelines  
+12. **Benet, Juan**. "IPFS - Content Addressed, Versioned, P2P File System". 2014. https://ipfs.io/ipfs/QmR7GSQM93Cx5eAg6a6yRzNde1FQv7uL6X1o4k7zrJa3LX/ipfs.draft3.pdf  
+13. **FIPS PUB 180-4**. "Secure Hash Standard (SHS)". NIST, 2015. https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.180-4.pdf  
+14. **FIPS PUB 202**. "SHA-3 Standard: Permutation-Based Hash and Extendable-Output Functions". NIST, 2015. https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.202.pdf  
+15. **Bernstein, D.J., et al.** "Ed25519: high-speed high-security signatures". 2011. https://ed25519.cr.yp.to/ed25519-20110926.pdf  
+16. **ANSI X9.62**. "Public Key Cryptography for the Financial Services Industry: The Elliptic Curve Digital Signature Algorithm (ECDSA)". 2005.  
+17. **Protocol Labs**. "IPFS Documentation". https://docs.ipfs.io/  
+18. **Protocol Labs**. "Filecoin: A Decentralized Storage Network". 2017. https://filecoin.io/filecoin.pdf  
+19. **Williams, Sam, et al.** "Arweave: A Protocol for Economically Sustainable Information Permanence". 2019. https://www.arweave.org/yellow-paper.pdf  
+20. **Ethereum Foundation**. "Ethereum Whitepaper". https://ethereum.org/en/whitepaper/  
+21. **Polygon Technology**. "Polygon Documentation". https://docs.polygon.technology/  
+22. **Binance**. "Binance Smart Chain Documentation". https://docs.bnbchain.org/  
+23. **W3C**. "Decentralized Identifiers (DIDs) v1.0". 2022. https://www.w3.org/TR/did-core/  
+24. **W3C**. "Verifiable Credentials Data Model v1.1". 2022. https://www.w3.org/TR/vc-data-model/  
+25. **Content Authenticity Initiative (CAI)**. "C2PA Technical Specification". https://c2pa.org/specifications/  
+26. **Orlovsky, Peter**. "OpenTimestamps: Scalable, Trustless, Distributed Timestamping with Bitcoin". 2016. https://opentimestamps.org/  
 
-### Aanvullende Technische Documentatie
+---
 
-- **Ethereum Improvement Proposals (EIPs)**. https://eips.ethereum.org/
-- **Bitcoin Improvement Proposals (BIPs)**. https://github.com/bitcoin/bips
-- **InterPlanetary File System (IPFS) Specifications**. https://specs.ipfs.tech/
-- **Solidity Documentation**. https://docs.soliditylang.org/
-- **Web3 Foundation Papers**. https://research.web3.foundation/
+### Legal Sources
 
-### Relevante Organisaties
+27. **Van Dam, Cees**. *European Tort Law*. Oxford University Press, 2013. ISBN: 978-0199672264 (Concept of injunction/damages)  
+28. **European Court of Human Rights**. https://www.echr.coe.int/  
+29. **Inter-American Court of Human Rights**. https://www.corteidh.or.cr/  
+30. **International Court of Justice**. https://www.icj-cij.org/  
+31. **International Criminal Court**. https://www.icc-cpi.int/  
+32. **EU Directive 2019/1937** on the protection of persons who report breaches of Union law. European Union, 2019. https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019L1937  
+33. **International Humanitarian Law (IHL)**. International Committee of the Red Cross. https://www.icrc.org/en/doc/what-is-ihl/  
+34. **Rome Statute of the International Criminal Court**, Article 7. United Nations, 1998. https://www.icc-cpi.int/sites/default/files/RS-Eng.pdf  
+35. **Digital Services Act (DSA)**, Regulation (EU) 2022/2065. European Union, 2022. https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R2065  
+36. **UNCITRAL Model Law on Electronic Commerce**. United Nations, 1996. https://uncitral.un.org/en/texts/ecommerce/modellaw/electronic_commerce  
 
-- **Electronic Frontier Foundation (EFF)**. https://www.eff.org/
-- **Reporters Without Borders (RSF)**. https://rsf.org/
-- **Committee to Protect Journalists (CPJ)**. https://cpj.org/
-- **Article 19**. https://www.article19.org/
-- **Freedom House**. https://freedomhouse.org/
+---
+
+### Additional Technical Documentation
+
+- **Ethereum Improvement Proposals (EIPs)**. https://eips.ethereum.org/  
+- **Bitcoin Improvement Proposals (BIPs)**. https://github.com/bitcoin/bips  
+- **InterPlanetary File System (IPFS) Specifications**. https://specs.ipfs.tech/  
+- **Solidity Documentation**. https://docs.soliditylang.org/  
+- **Web3 Foundation Papers**. https://research.web3.foundation/  
+
+---
+
+### Relevant Organizations
+
+- **Electronic Frontier Foundation (EFF)**. https://www.eff.org/  
+- **Reporters Without Borders (RSF)**. https://rsf.org/  
+- **Committee to Protect Journalists (CPJ)**. https://cpj.org/  
+- **Article 19**. https://www.article19.org/  
+- **Freedom House**. https://freedomhouse.org/  
 
 ---
 
@@ -562,4 +536,4 @@ This document operates under the binding framework of:
 
 All evidence, conclusions, and recommendations presented herein must therefore be read in the context of **duty of care**, **precautionary obligations**, and **intergenerational responsibility**.  
 
----5b9e68672b3dc5a9c16cbd8c2a72983185ec348898e18e0b8c0d2d2010f747d7
+---65bae11263a5c959a5d58db4a31596db49713be5d87c8832232ec5c1dadb71ef
