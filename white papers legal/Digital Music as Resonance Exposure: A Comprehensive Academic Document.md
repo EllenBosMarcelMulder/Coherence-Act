@@ -8,10 +8,15 @@ This comprehensive dual-track analysis examines the RC1 paradigm's claims across
 
 ## Legal Framework & Liability Notice
 
-This white paper operates under the binding framework of the  
-[Liability Statement – Precautionary Principle and Protection of Future Generations](https://github.com/EllenBosMarcelMulder/Coherence-Act/blob/main/legal/Liability%20Statement%20–%20Precautionary%20Principle%20and%20Protection%20of%20Future%20Generations*.md).  
+This document operates under the binding framework of:  
 
-All evidence, conclusions, and recommendations presented herein must therefore be read in the context of established duty of care, precautionary obligations, and intergenerational responsibility.
+- [Liability Statement – Precautionary Principle and Protection of Future Generations](https://github.com/EllenBosMarcelMulder/Coherence-Act/blob/main/legal/Liability%20Statement%20–%20Precautionary%20Principle%20and%20Protection%20of%20Future%20Generations*.md)
+- [International Public Injunction for Media Transparency and Blockchain Verification](https://github.com/EllenBosMarcelMulder/Coherence-Act/blob/main/legal/International%20Public%20Injunction%20for%20Media%20Transparency%20and%20Blockchain%20Verification.md) 
+- [LEGAL NOTICE.md](https://github.com/EllenBosMarcelMulder/Coherence-Act/blob/main/LEGAL%20NOTICE.md)  
+- [LICENSE.md](https://github.com/EllenBosMarcelMulder/Coherence-Act/blob/main/LICENSE.md)  
+- [LEGAL NOTICE DISCLAIMER.md](https://github.com/EllenBosMarcelMulder/Coherence-Act/blob/main/legal/LEGAL%20NOTICE%20%20DISCLAIMER.md)
+
+All evidence, conclusions, and recommendations presented herein must therefore be read in the context of **duty of care**, **precautionary obligations**, and **intergenerational responsibility**.  
 
 ---
 
@@ -432,4 +437,4 @@ The paradigm's core insight about rhythmic organization in nature has merit, but
 
 [66] Breakspear, M. (2017). Dynamic models of large-scale brain activity. Nature Neuroscience, 20(3), 340-352.
 
----32edf97e289dc8625df88ca9929a6a199835443c4af647fe12ac07ad5caf1214
+---df54f708705b2c8f6170813322b7e73f5f0d1f4324e4a509f906f7a2ac11ff4b
