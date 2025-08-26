@@ -10,15 +10,6 @@
 
 ---
 
-## Legal Framework & Liability Notice
-
-This white paper operates under the binding framework of the  
-[Liability Statement – Precautionary Principle and Protection of Future Generations](https://github.com/EllenBosMarcelMulder/Coherence-Act/blob/main/legal/Liability%20Statement%20–%20Precautionary%20Principle%20and%20Protection%20of%20Future%20Generations*.md).  
-
-All evidence, conclusions, and recommendations presented herein must therefore be read in the context of established duty of care, precautionary obligations, and intergenerational responsibility.
-
----
-
 ## 1. Introduction  
 
 I, **Marcel Mulder**, a Dutch citizen operating under **Dutch constitutional law** and the **legal framework of the European Union**, hereby give notice of the public release of my research archives and software via **GitHub**.  
@@ -105,10 +96,25 @@ This NOTICE.md is issued to ensure that:
 - This legal notice comes with a legal notice disclaimer, this document must be followed up and read: map /legal/
 
 ---
+
 **Respectfully,**  
 
 Marcel Mulder  
 Dutch citizen – EU jurisdiction  
 Researcher and responsible knowledge holder
 
----20a55ef9671e3a09a81ed7c60a135da0565f7afdaf4f33978dfde541f9b1ca78
+---
+
+## Legal Framework & Liability Notice
+
+This document operates under the binding framework of:  
+
+- [Liability Statement – Precautionary Principle and Protection of Future Generations](https://github.com/EllenBosMarcelMulder/Coherence-Act/blob/main/legal/Liability%20Statement%20–%20Precautionary%20Principle%20and%20Protection%20of%20Future%20Generations*.md)
+- [International Public Injunction for Media Transparency and Blockchain Verification](https://github.com/EllenBosMarcelMulder/Coherence-Act/blob/main/legal/International%20Public%20Injunction%20for%20Media%20Transparency%20and%20Blockchain%20Verification.md) 
+- [LEGAL NOTICE.md](https://github.com/EllenBosMarcelMulder/Coherence-Act/blob/main/LEGAL%20NOTICE.md)  
+- [LICENSE.md](https://github.com/EllenBosMarcelMulder/Coherence-Act/blob/main/LICENSE.md)  
+- [LEGAL NOTICE DISCLAIMER.md](https://github.com/EllenBosMarcelMulder/Coherence-Act/blob/main/legal/LEGAL%20NOTICE%20%20DISCLAIMER.md)
+
+All evidence, conclusions, and recommendations presented herein must therefore be read in the context of **duty of care**, **precautionary obligations**, and **intergenerational responsibility**.  
+
+---214fba1260c03269221e376e74bb79317b8035ba6ec8036297df7eb5fe2ec2c7
