@@ -28,10 +28,15 @@ Because breakthrough knowledge this powerful must be governed collectively by hu
 
 ## Legal Framework & Liability Notice
 
-This white paper operates under the binding framework of the  
-[Liability Statement – Precautionary Principle and Protection of Future Generations](https://github.com/EllenBosMarcelMulder/Coherence-Act/blob/main/legal/Liability%20Statement%20–%20Precautionary%20Principle%20and%20Protection%20of%20Future%20Generations*.md).  
+This document operates under the binding framework of:  
 
-All evidence, conclusions, and recommendations presented herein must therefore be read in the context of established duty of care, precautionary obligations, and intergenerational responsibility.
+- [Liability Statement – Precautionary Principle and Protection of Future Generations](https://github.com/EllenBosMarcelMulder/Coherence-Act/blob/main/legal/Liability%20Statement%20–%20Precautionary%20Principle%20and%20Protection%20of%20Future%20Generations*.md)
+- [International Public Injunction for Media Transparency and Blockchain Verification](https://github.com/EllenBosMarcelMulder/Coherence-Act/blob/main/legal/International%20Public%20Injunction%20for%20Media%20Transparency%20and%20Blockchain%20Verification.md) 
+- [LEGAL NOTICE.md](https://github.com/EllenBosMarcelMulder/Coherence-Act/blob/main/LEGAL%20NOTICE.md)  
+- [LICENSE.md](https://github.com/EllenBosMarcelMulder/Coherence-Act/blob/main/LICENSE.md)  
+- [LEGAL NOTICE DISCLAIMER.md](https://github.com/EllenBosMarcelMulder/Coherence-Act/blob/main/legal/LEGAL%20NOTICE%20%20DISCLAIMER.md)
+
+All evidence, conclusions, and recommendations presented herein must therefore be read in the context of **duty of care**, **precautionary obligations**, and **intergenerational responsibility**.  
 
 ---
 
@@ -735,4 +740,4 @@ This research may have implications for:
 
 [82] Evans, N.G., Lipsitch, M., & Levinson, M. (2015). The ethics of biosafety considerations in gain-of-function research resulting in the creation of potential pandemic pathogens. *Journal of Medical Ethics*, 41(11), 901-908.
 
----1cdd509f6dd5ba208c70bd26c41de836a872f6c44e67ac921583e1d1c10b08f9
+---7c08dd05653f8772814d12fb32226ba61dddcaafc41989cfd6c9199e1b22dc54
