@@ -405,21 +405,14 @@ Train forensic teams in:
 **Short-term**: Practice Directions for consistent distributed proof evaluation; evidence intake template deployment.  
 **Medium-term**: Institutional capacity for multi-network verification; international cooperation protocols.
 
-## 2.12 Cross-References
+### 2.12 Internal Cross-References
 
-**Complete Legal Framework**: [International-Public-Injunction.md](./International-Public-Injunction.md) - Comprehensive binding obligations and enforcement mechanisms  
-**Technical Architecture**: [BLOCKCHAIN-MANIFESTO.md](./BLOCKCHAIN-MANIFESTO.md) - Multi-network implementation specifications  
-**Verification Records**: [HASHES.md](./HASHES.md) - SHA-256 hashes and blockchain anchor documentation  
-**Accountability Documentation**: [MAIL-TRACE.md](./MAIL-TRACE.md) - Human layer institutional distribution records  
-**Scientific Analysis**: See Sections 5-8 of this document - Historical paradigm analysis and systems comparison  
-**Implementation Guidance**: See Foreword: Accessibility Suite - Complete instructions for all stakeholder groups
-
-**Quality Self-Check**: 
-✅ **Legitimacy**: Aspirational goals clearly distinguished from current legal enforceability  
-✅ **Operationality**: Each target group receives concrete "What to do now" action items  
-✅ **Verifiability**: Hash/CID/transaction placeholders included with HASHES.md references  
-✅ **Privacy & Proportionality**: Explicit safeguards and human rights by design principles  
-✅ **Non-Exclusivity**: Expanding Anchors principle applied throughout with multi-network approach
+- Complete Legal Framework: see **Section 4** (International Public Injunction)  
+- Technical Architecture: see **Section 3** (Blockchain Manifesto)  
+- Verification Records: see **Appendix A** (Hashes & Anchors)  
+- Accountability Documentation: see **Appendix B** (Mail Trace)  
+- Scientific Analysis: see **Sections 5–8** (Historical paradigm analysis and systems comparison)  
+- Implementation Guidance: see **Foreword: Accessibility Suite** (instructions for all stakeholder groups)
 
 ---
 
@@ -1815,4 +1808,4 @@ Each recipient received:
 - **Article 19**. https://www.article19.org/
 - **Freedom House**. https://freedomhouse.org/
 
----077400182f3baa632edc25ce7f1264eecd2eafc1d56f00fcda0ff30e9dfd0056
+---ef824497f6004caa8270be05cd931d280cf76551ac8b5f98696a29f6e50943b2
