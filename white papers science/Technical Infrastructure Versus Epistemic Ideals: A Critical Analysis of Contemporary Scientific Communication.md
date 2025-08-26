@@ -12,7 +12,6 @@ This comprehensive analysis examines the tension between scientific ideals of pr
 
 ## Table of Contents
 
-0. [Liability Statement – Precautionary Principle and Protection of Future Generations](https://github.com/EllenBosMarcelMulder/Coherence-Act/blob/main/legal/Liability%20Statement%20–%20Precautionary%20Principle%20and%20Protection%20of%20Future%20Generations*.md).  
 1. [Introduction](#1-introduction)
 2. [The Documented Infrastructure Crisis in Scientific Publishing](#2-the-documented-infrastructure-crisis-in-scientific-publishing)
 3. [Institutional Gatekeeping Mechanisms and Systematic Bias](#3-institutional-gatekeeping-mechanisms-and-systematic-bias)
@@ -26,7 +25,7 @@ This comprehensive analysis examines the tension between scientific ideals of pr
 
 ---
 
-## 0. Legal Framework & Liability Notice
+## Legal Framework & Liability Notice
 
 This white paper operates under the binding framework of the  
 [Liability Statement – Precautionary Principle and Protection of Future Generations](https://github.com/EllenBosMarcelMulder/Coherence-Act/blob/main/legal/Liability%20Statement%20–%20Precautionary%20Principle%20and%20Protection%20of%20Future%20Generations*.md).  
