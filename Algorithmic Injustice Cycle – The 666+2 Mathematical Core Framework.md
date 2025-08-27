@@ -2,7 +2,7 @@
 
 ## 1. Cycle Definition (666+2)
 
-$$P = \{1:\text{Dehumanization},\;2:\text{Dispossession},\;3:\text{Disruption},\;4:\text{Denial},\;5:\text{Digitized Discrimination},\;6:\text{Normalization},\;7:\text{Self-fine},\;8:\text{No Prosecution}\}$$
+$$P = \small\{1:\text{Dehumanization},\;2:\text{Dispossession},\;3:\text{Disruption},\;4:\text{Denial},\;5:\text{Digitized Discrimination},\;6:\text{Normalization},\;7:\text{Self-fine},\;8:\text{No Prosecution}\}$$
 
 $$Cycle(n+1) = P_1 \quad \text{if no intervention at } P_8(n)$$
 
