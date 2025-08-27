@@ -1,4 +1,4 @@
-### 📐 Total System Overview in Formula Form
+### Algorithmic Injustice Cycle – The 666+2 Mathematical Core Framework
 
 ## 1. Cycle Definition (666+2)
 
@@ -107,3 +107,5 @@ $$ClosedSwarm = \left(\bigcup_{k=1}^N C_k\right) \to P_\infty \to P_0$$
 ## 10. Total Closing Formula
 
 $$ClosedCycle = \{P_0 \to P_1 \to \cdots \to P_8 \to P_\infty \to P_0 \to Loop\}$$
+
+---a5adff7a9e867e687b1dd093756732723fb85224118ada7df6a892ad85408236
