@@ -97,7 +97,7 @@ $$C_k = \{P_1^k \to \cdots \to P_8^k\}, \quad k=1..N$$
 $$W_{ij} = \lambda \cdot overlap(C_i,C_j) + \mu \cdot coherence(C_i,C_j) - \nu \cdot conflict(C_i,C_j)$$
 
 ### Swarm Potential:
-$$\Phi = \sum_{i<j} W_{ij}$$
+$$ \Phi = \sum_{i<j} W_{ij} $$
 
 ### Total Swarm Closure:
 $$ClosedSwarm = \left(\bigcup_{k=1}^N C_k\right) \to P_\infty \to P_0$$
