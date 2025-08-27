@@ -142,28 +142,30 @@ $$
 
 ## 9. Swarm Field (Multiple Documents)
 
-*Sub-cycle per document:*
+**Sub-cycle per document:**
 
 $$
-C_k = \{P_1^k \to \cdots \to P_8^k\}, \quad k=1..N
+C_k = \{\,P_1^{\,k} \to \cdots \to P_8^{\,k}\,\}, \quad k=1..N
 $$
 
-*Interaction between documents:*
+**Interaction between documents:**
 
 $$
-W_{ij} = \lambda \cdot overlap(C_i,C_j) + \mu \cdot coherence(C_i,C_j) - \nu \cdot conflict(C_i,C_j)
+W_{ij} = \lambda \,\operatorname{overlap}(C_i,C_j)
+       + \mu \,\operatorname{coherence}(C_i,C_j)
+       - \nu \,\operatorname{conflict}(C_i,C_j)
 $$
 
-*Swarm Potential:*
+**Swarm Potential:**
 
 $$
 \Phi = \sum_{i<j} W_{ij}
 $$
 
-*Total Swarm Closure:*
+**Total Swarm Closure:**
 
 $$
-ClosedSwarm = \Big\{\bigcup_{k=1}^N C_k\Big\} \to P_\infty \to P_0
+ClosedSwarm = \left\{ \bigcup_{k=1}^{N} C_k \right\} \to P_{\infty} \to P_0
 $$
 
 ---
