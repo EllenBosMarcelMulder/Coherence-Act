@@ -108,4 +108,18 @@ $$ClosedSwarm = \left(\bigcup_{k=1}^N C_k\right) \to P_\infty \to P_0$$
 
 $$ClosedCycle = \{P_0 \to P_1 \to \cdots \to P_8 \to P_\infty \to P_0 \to Loop\}$$
 
----a5adff7a9e867e687b1dd093756732723fb85224118ada7df6a892ad85408236
+---
+
+## Legal Framework & Liability Notice
+
+This document operates under the binding framework of:  
+
+- [Liability Statement – Precautionary Principle and Protection of Future Generations](https://github.com/EllenBosMarcelMulder/Coherence-Act/blob/main/legal/Liability%20Statement%20–%20Precautionary%20Principle%20and%20Protection%20of%20Future%20Generations*.md)
+- [International Public Injunction for Media Transparency and Blockchain Verification](https://github.com/EllenBosMarcelMulder/Coherence-Act/blob/main/legal/International%20Public%20Injunction%20for%20Media%20Transparency%20and%20Blockchain%20Verification.md) 
+- [LEGAL NOTICE.md](https://github.com/EllenBosMarcelMulder/Coherence-Act/blob/main/LEGAL%20NOTICE.md)  
+- [LICENSE.md](https://github.com/EllenBosMarcelMulder/Coherence-Act/blob/main/LICENSE.md)  
+- [LEGAL NOTICE DISCLAIMER.md](https://github.com/EllenBosMarcelMulder/Coherence-Act/blob/main/legal/LEGAL%20NOTICE%20%20DISCLAIMER.md)
+
+All evidence, conclusions, and recommendations presented herein must therefore be read in the context of **duty of care**, **precautionary obligations**, and **intergenerational responsibility**.  
+
+---91090b082da04320b9a085222eefed0f905f0bbcb07b077d865dc8bf95f7a9e3
