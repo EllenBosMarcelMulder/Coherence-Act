@@ -1,4 +1,4 @@
-# 📐 Total System Overview in Formula Form
+### 📐 Total System Overview in Formula Form
 
 ## 1. Cycle Definition (666+2)
 
@@ -44,9 +44,9 @@ $$w_{pse} = \alpha_p \times \beta_s \times \gamma_e$$
 
 ### Tier Classification
 
-- **Tier 1** (Preventive): $R_{doc} < 30$
-- **Tier 2** (Intervention): $30 \leq R_{doc} < 70$ 
-- **Tier 3** (Emergency): $R_{doc} \geq 70$
+* **Tier 1** (Preventive): $R_{doc} < 30$
+* **Tier 2** (Intervention): $30 \leq R_{doc} < 70$
+* **Tier 3** (Emergency): $R_{doc} \geq 70$
 
 ---
 
@@ -61,8 +61,8 @@ $$Alert(t) = \begin{cases} 1 & \text{if } \frac{dR_{doc}}{dt} > \text{threshold}
 $$BalanceScore = CLI - LLI$$
 
 **Risk Assessment:**
-- $BalanceScore < -3$ → High risk (linear, power-oriented)
-- $BalanceScore > +3$ → Low risk (cyclical, relational)
+* $BalanceScore < -3$ → High risk (linear, power-oriented)
+* $BalanceScore > +3$ → Low risk (cyclical, relational)
 
 ---
 
@@ -100,12 +100,10 @@ $$W_{ij} = \lambda \cdot overlap(C_i,C_j) + \mu \cdot coherence(C_i,C_j) - \nu \
 $$\Phi = \sum_{i<j} W_{ij}$$
 
 ### Total Swarm Closure:
-$$ClosedSwarm = \left\{\bigcup_{k=1}^N C_k\right\} \to P_\infty \to P_0$$
+$$ClosedSwarm = \left(\bigcup_{k=1}^N C_k\right) \to P_\infty \to P_0$$
 
 ---
 
 ## 10. Total Closing Formula
 
 $$ClosedCycle = \{P_0 \to P_1 \to \cdots \to P_8 \to P_\infty \to P_0 \to Loop\}$$
-
----
